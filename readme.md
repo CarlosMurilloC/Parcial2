@@ -142,6 +142,8 @@ public class Empleados {
 
 
 
+![capturabuena](https://github.com/CarlosMurilloC/Parcial2/assets/158159694/f8d3399b-8819-470e-8d94-2004dfc8c5ac)
+
 
 
 
